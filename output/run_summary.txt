@@ -1,0 +1,6 @@
+Input rows read           : 11
+Ranked records            : 9
+Duplicate rows merged     : 1
+Rejected records          : 1
+Row count check           : OK (input = ranked + merged + rejected)
+Note: no web page is opened by this program; links are not checked and no record is marked as verified by a human unless the input CSV says so.
